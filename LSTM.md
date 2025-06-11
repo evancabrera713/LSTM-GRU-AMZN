@@ -172,55 +172,55 @@ for(i in 1:epochs){
 ```
 
     ## Epoch 1/5
-    ## 68/68 - 2s - loss: 0.0075 - 2s/epoch - 32ms/step
+    ## 68/68 - 2s - loss: 0.0121 - 2s/epoch - 35ms/step
     ## Epoch 2/5
-    ## 68/68 - 1s - loss: 0.0014 - 862ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 0.0012 - 901ms/epoch - 13ms/step
     ## Epoch 3/5
-    ## 68/68 - 1s - loss: 0.0011 - 835ms/epoch - 12ms/step
+    ## 68/68 - 1s - loss: 9.8142e-04 - 892ms/epoch - 13ms/step
     ## Epoch 4/5
-    ## 68/68 - 1s - loss: 8.3717e-04 - 848ms/epoch - 12ms/step
+    ## 68/68 - 1s - loss: 9.9360e-04 - 833ms/epoch - 12ms/step
     ## Epoch 5/5
-    ## 68/68 - 1s - loss: 8.3383e-04 - 834ms/epoch - 12ms/step
+    ## 68/68 - 1s - loss: 7.8824e-04 - 827ms/epoch - 12ms/step
     ## Epoch 1/5
-    ## 68/68 - 1s - loss: 7.1372e-04 - 878ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 6.9728e-04 - 824ms/epoch - 12ms/step
     ## Epoch 2/5
-    ## 68/68 - 1s - loss: 7.2738e-04 - 953ms/epoch - 14ms/step
+    ## 68/68 - 1s - loss: 6.9523e-04 - 839ms/epoch - 12ms/step
     ## Epoch 3/5
-    ## 68/68 - 1s - loss: 6.6007e-04 - 907ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 6.3508e-04 - 823ms/epoch - 12ms/step
     ## Epoch 4/5
-    ## 68/68 - 1s - loss: 6.2186e-04 - 922ms/epoch - 14ms/step
+    ## 68/68 - 1s - loss: 5.5418e-04 - 819ms/epoch - 12ms/step
     ## Epoch 5/5
-    ## 68/68 - 1s - loss: 5.9843e-04 - 951ms/epoch - 14ms/step
+    ## 68/68 - 1s - loss: 5.5407e-04 - 820ms/epoch - 12ms/step
     ## Epoch 1/5
-    ## 68/68 - 1s - loss: 5.7096e-04 - 1s/epoch - 18ms/step
+    ## 68/68 - 1s - loss: 5.3951e-04 - 824ms/epoch - 12ms/step
     ## Epoch 2/5
-    ## 68/68 - 1s - loss: 5.0556e-04 - 881ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 4.9199e-04 - 813ms/epoch - 12ms/step
     ## Epoch 3/5
-    ## 68/68 - 1s - loss: 4.6879e-04 - 868ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 5.2000e-04 - 814ms/epoch - 12ms/step
     ## Epoch 4/5
-    ## 68/68 - 1s - loss: 4.7946e-04 - 877ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 4.3094e-04 - 827ms/epoch - 12ms/step
     ## Epoch 5/5
-    ## 68/68 - 1s - loss: 4.9303e-04 - 909ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 4.4056e-04 - 822ms/epoch - 12ms/step
     ## Epoch 1/5
-    ## 68/68 - 1s - loss: 4.2929e-04 - 923ms/epoch - 14ms/step
+    ## 68/68 - 1s - loss: 4.4849e-04 - 812ms/epoch - 12ms/step
     ## Epoch 2/5
-    ## 68/68 - 1s - loss: 4.5468e-04 - 868ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 4.2399e-04 - 822ms/epoch - 12ms/step
     ## Epoch 3/5
-    ## 68/68 - 1s - loss: 4.2170e-04 - 825ms/epoch - 12ms/step
+    ## 68/68 - 1s - loss: 4.1321e-04 - 811ms/epoch - 12ms/step
     ## Epoch 4/5
-    ## 68/68 - 1s - loss: 3.9137e-04 - 846ms/epoch - 12ms/step
+    ## 68/68 - 1s - loss: 4.1132e-04 - 824ms/epoch - 12ms/step
     ## Epoch 5/5
-    ## 68/68 - 1s - loss: 3.9641e-04 - 833ms/epoch - 12ms/step
+    ## 68/68 - 1s - loss: 3.9111e-04 - 820ms/epoch - 12ms/step
     ## Epoch 1/5
-    ## 68/68 - 1s - loss: 4.1526e-04 - 851ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 3.7146e-04 - 822ms/epoch - 12ms/step
     ## Epoch 2/5
-    ## 68/68 - 1s - loss: 3.8824e-04 - 859ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 3.7952e-04 - 815ms/epoch - 12ms/step
     ## Epoch 3/5
-    ## 68/68 - 1s - loss: 3.6273e-04 - 864ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 3.4569e-04 - 823ms/epoch - 12ms/step
     ## Epoch 4/5
-    ## 68/68 - 1s - loss: 3.7398e-04 - 890ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 3.6819e-04 - 825ms/epoch - 12ms/step
     ## Epoch 5/5
-    ## 68/68 - 1s - loss: 3.6623e-04 - 914ms/epoch - 13ms/step
+    ## 68/68 - 1s - loss: 3.4872e-04 - 824ms/epoch - 12ms/step
 
 ``` r
 # (Choosing the number of epochs can be decided on training loss and validation loss. Balancing loss functions help prevent overfitting of the model)
@@ -233,7 +233,7 @@ for(i in 1:epochs){
 pred.y <- LSTM.model %>% predict(test.x, batch_size=32)
 ```
 
-    ## 10/10 - 0s - 331ms/epoch - 33ms/step
+    ## 10/10 - 0s - 315ms/epoch - 32ms/step
 
 ``` r
 # Re-scaling the test and predicted values back to original prices
@@ -251,19 +251,19 @@ accuracy20<- ifelse(abs(test.y.rescaled-pred.y.rescaled)<0.20*test.y.rescaled,1,
 print(paste("accuracy within 10%:", round(mean(accuracy10),4)))
 ```
 
-    ## [1] "accuracy within 10%: 0.891"
+    ## [1] "accuracy within 10%: 0.4327"
 
 ``` r
 print(paste("accuracy within 15%:", round(mean(accuracy15),4)))
 ```
 
-    ## [1] "accuracy within 15%: 0.9583"
+    ## [1] "accuracy within 15%: 0.6763"
 
 ``` r
 print(paste("accuracy within 20%:", round(mean(accuracy20),4)))
 ```
 
-    ## [1] "accuracy within 20%: 0.9936"
+    ## [1] "accuracy within 20%: 0.8269"
 
 ### Visiualizing our actual and predicted values
 
@@ -287,4 +287,4 @@ directional.accuracy <- mean(direction.correct)
 directional.accuracy
 ```
 
-    ## [1] 0.5176849
+    ## [1] 0.5209003
